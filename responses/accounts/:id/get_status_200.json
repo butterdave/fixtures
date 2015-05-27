@@ -1,0 +1,17 @@
+{
+  "accountCredentials": [],
+  "createdAt": "2015-04-09T20:43:40.476030Z",
+  "email": "l.test.stp@gmail.com",
+  "firstName": "Test",
+  "lastName": "Account",
+  "links": {
+    "friendly": {
+      "href": "https://staging.lcp.points.com/v1/accounts/l.test.stp%40gmail.com"
+    },
+    "self": {
+      "href": "https://staging.lcp.points.com/v1/accounts/7e4e259d-1af0-4978-835b-831d73b9a5b5"
+    }
+  },
+  "type": "account",
+  "updatedAt": "2015-04-09T20:43:40.476030Z"
+}
